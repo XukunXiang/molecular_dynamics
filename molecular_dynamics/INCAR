@@ -1,0 +1,11 @@
+general:
+ SYSTEM =CsSnI3
+ ISTART =0 
+ ISMEAR =0 
+ SIGMA =0.05 
+
+precision:
+ ENCUT =250 
+ EDIFF =1E-4 
+
+other:
